@@ -1,2 +1,3 @@
 # SpringStudentApplications
 # SpringStudentApplications
+# InstaManagerApplication
